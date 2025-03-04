@@ -1,0 +1,4 @@
+Nueva línea agregada en la rama adicionar
+Modificación de contenido en la rama modificar
+Esta línea será eliminada
+Consulta de datos en la rama consultar
